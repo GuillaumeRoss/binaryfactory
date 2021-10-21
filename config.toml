@@ -1,0 +1,13 @@
+baseURL = 'https://binaryfactory.ca/'
+languageCode = 'en-us'
+title = 'Binaryfactory'
+theme = "m10c"
+
+
+[[params.mainMenu]]
+    link = "/blog"
+    text = "Blog"
+
+    [[params.mainMenu]]
+    link = "/content"
+    text = "Content"
