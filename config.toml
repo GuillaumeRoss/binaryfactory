@@ -98,17 +98,16 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Guillaume Ross"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "guillaume@binaryfactory.ca"
     # Motto or introduction
-    motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
     website = "https://io-oi.me/"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "gepeto42"
 
 # Related content
 [related]
@@ -1267,7 +1266,7 @@ uglyURLs = false
     # Leave it empty("") if you don’t want
     # the icon
     iconBetweenYearAndAuthor = "heart"
-    iconColor = "#f06292"
+    iconColor = "#f59342"
     # Enable heartbeat animation?
     iconAnimation = true
 
